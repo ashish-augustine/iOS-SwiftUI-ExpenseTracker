@@ -1,4 +1,4 @@
-# Completed Project for Building Expense Tracker iOS App with Core Data & SwiftUI
+# Expense Tracker iOS App with Core Data & SwiftUI
 
 ![Alt text](./promo.png?raw=true "Building Expense Tracker iOS App with Core Data & SwiftUI")
 
