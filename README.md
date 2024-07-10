@@ -1,7 +1,6 @@
 # Completed Project for Building Expense Tracker iOS App with Core Data & SwiftUI
 
 ![Alt text](./promo.png?raw=true "Building Expense Tracker iOS App with Core Data & SwiftUI")
-Follow the tutorial at [alfianlosari.com](https://alfianlosari.com "Xcoding with Alfian Blog")
 
 ## Features
 * Create, edit, and delete expense logs.
@@ -16,4 +15,3 @@ Follow the tutorial at [alfianlosari.com](https://alfianlosari.com "Xcoding with
 ## Getting Started
 - Clone or download
 - Build and Run
-# SwiftUICDExpenseTrackerCompleted-master
