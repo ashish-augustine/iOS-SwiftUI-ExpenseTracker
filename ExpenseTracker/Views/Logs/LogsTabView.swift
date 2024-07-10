@@ -2,8 +2,8 @@
 //  LogsTabView.swift
 //  ExpenseTracker
 //
-//  Created by Alfian Losari on 19/04/20.
-//  Copyright © 2020 Alfian Losari. All rights reserved.
+//  Created by Ashish Augustine on 19/04/20.
+//  Copyright © 2020 Ashish Augustine. All rights reserved.
 //
 
 import SwiftUI
