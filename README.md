@@ -1,5 +1,5 @@
 # iOS Expense Tracker 
-This is an Expense Tracker iOS app for trackng daily expenses which is developed using Core Data & SwiftUI 
+This is an Expense Tracker iOS app used for tracking daily expenses, which is developed using Core Data & SwiftUI 
 ## Features
 * Create, edit, and delete expense logs.
 * Display list of expenses.
